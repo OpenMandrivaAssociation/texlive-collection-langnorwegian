@@ -7,7 +7,7 @@
 Name:		texlive-collection-langnorwegian
 Epoch:		1
 Version:	20120224
-Release:	8
+Release:	9
 Summary:	Norwegian
 Group:		Publishing
 URL:		http://tug.org/texlive
